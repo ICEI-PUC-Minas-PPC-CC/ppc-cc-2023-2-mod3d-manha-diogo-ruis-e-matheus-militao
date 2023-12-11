@@ -11,6 +11,6 @@ Como aprendido durante o semestre corrente, a escultura do alien junto das ferra
 
 <p></p>
 
-<h3>Em geral</h3>
+# Em geral
 
 Utilizamos para esse trabalho imagens HDR do site polyhaven.com que disponilibilza imagens em HDR. Para modelar, usamos a escultura conforme foi aprendido no video de exemplo na plataforma Blender, assim como as texturas. Também usando o Blender e o Mocap AI fizemos o personagem na posse T e "linkamos" o osso junto do personagem, também conforme o video de exemplo.
