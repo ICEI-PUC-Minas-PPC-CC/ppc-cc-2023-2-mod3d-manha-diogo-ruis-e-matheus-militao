@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Modelo 3D
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem e construcao de aplicacoes 3D
