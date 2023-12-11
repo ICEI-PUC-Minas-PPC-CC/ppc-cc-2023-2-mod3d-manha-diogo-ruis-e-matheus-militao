@@ -6,8 +6,8 @@
 
 ## Integrantes
 
-- Rafael de Souza Felisberto 
-- Pedro Henrique Franco Moreira Amaral
+- Diogo Nascimento Ruis
+- Matheus Militão Santos
 
 ## Professor
 
