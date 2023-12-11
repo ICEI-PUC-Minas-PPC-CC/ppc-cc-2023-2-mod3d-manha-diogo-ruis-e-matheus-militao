@@ -1,10 +1,10 @@
 # Detalhamento do Projeto
 
-<h3>Diogo Ruis</h3>
+# Diogo Ruis
 
 <p> Com o aprendizado durante o semestre, foi possível esculpir um alien, utilizando as paletas de pincéis e alterando nosso objeto para a forma desejada, tanto quanto a forma, também consguimos adicionar uma textura para que assim seja a pele do personagem, foi possível assim, tanto quanto a modelagem do objeto, também fazermos uma animação, usando o MOCAP Ia, aonde conseguimos fazer um piloto de F1 dançando uma dança do "TikTok".
 
-<h2>Matheus Militão Santos </h2>
+# Matheus Militão Santos 
 
 Como aprendido durante o semestre corrente, a escultura do alien junto das ferramentas de esculpimento foi de extrema relevância e junto com o isso atraves do video de exemplo também fizemos o exercicio extra com o Mocap AI, usando como exemplo uma dancinha no app "TikTok" e usamos como personagem o piloto de formula 1 disponivel no site "Mixamo".
 
