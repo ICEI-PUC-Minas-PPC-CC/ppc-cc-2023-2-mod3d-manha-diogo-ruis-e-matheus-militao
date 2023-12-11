@@ -6,6 +6,8 @@
 
 <h2>Matheus Militão Santos </h2>
 
+Como aprendido durante o semestre corrente, a escultura do alien junto das ferramentas de esculpimento foi de extrema relevância e junto com o isso atraves do video de exemplo também fizemos o exercicio extra com o Mocap AI, usando como exemplo uma dancinha no app "TikTok" e usamos como personagem o piloto de formula 1 disponivel no site "Mixamo".
+
 
 <p></p>
 
